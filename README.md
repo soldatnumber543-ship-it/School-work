@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabajo escolar</title>
+</head>
+<body>
+    <h1 style="text-align: center; font-size: 70px;">La importancia de la fotosíntesis y su función para la vida del planeta.</h1>
+
+</body>
+</html>
+
+
+
 Hello
 <h1>So... Just testing.</h1>
 hshshshshshhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
