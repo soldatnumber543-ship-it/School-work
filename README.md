@@ -3,10 +3,10 @@ Alrighty, so I'm just testing this new option.
 
  <h1 style="text-align: center; font-size: 70px;">La importancia de la fotosíntesis y su función para la vida del planeta.</h1>
  <hr>
- <table>
+<table>
         <tr>
             <td>
-                So... Kinda
+                Importancia y función para el ciclo alimenticio
             </td>
         </tr>
     </table>
